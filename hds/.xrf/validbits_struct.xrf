@@ -1,0 +1,260 @@
+DESIGN @valid@bits
+VIEW interface
+NO_GRAPHIC 0
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 50,0 8 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 829,0 17 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 834,0 18 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 839,0 19 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 844,0 20 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 849,0 21 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 854,0 22 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 859,0 23 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 864,0 24 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 869,0 25 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 874,0 26 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 879,0 27 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 884,0 28 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 889,0 29 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 894,0 30 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 899,0 31 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 904,0 32 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 909,0 33 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 914,0 34 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 1,0 37 0 
+DESIGN @valid@bits
+VIEW interface
+GRAPHIC 1,0 38 0 
+DESIGN @valid@bits
+VIEW struct.bd
+NO_GRAPHIC 41
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 329,0 50 0 
+DESIGN @valid@bits
+VIEW struct.bd
+NO_GRAPHIC 56
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 0,0 58 2 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 1095,0 63 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 954,0 64 0 
+DESIGN @valid@bits
+VIEW struct.bd
+NO_GRAPHIC 65
+DESIGN @valid@bits
+VIEW struct.bd
+NO_GRAPHIC 66
+LIBRARY ece411
+DESIGN @bit@array
+VIEW untitled
+GRAPHIC 417,0 68 0 
+DESIGN @valid@bits
+VIEW struct.bd
+NO_GRAPHIC 75
+LIBRARY ece411
+DESIGN @valid@bits
+VIEW struct.bd
+NO_GRAPHIC 77
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 417,0 80 0 
+DESIGN @valid@bits
+VIEW struct.bd
+NO_GRAPHIC 83
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 882,0 85 0 
+DESIGN @valid@bits
+VIEW struct.bd
+NO_GRAPHIC 88
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 417,0 90 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 732,0 92 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 127,0 93 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 790,0 94 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 894,0 95 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 15,0 96 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 427,0 98 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 726,0 100 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 141,0 101 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 784,0 102 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 898,0 103 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 29,0 104 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 457,0 106 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 720,0 108 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 155,0 109 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 778,0 110 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 1063,0 111 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 43,0 112 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 487,0 114 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 714,0 116 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 169,0 117 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 772,0 118 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 1071,0 119 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 57,0 120 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 517,0 122 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 708,0 124 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 183,0 125 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 766,0 126 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 1077,0 127 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 71,0 128 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 547,0 130 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 702,0 132 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 197,0 133 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 752,0 134 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 1083,0 135 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 85,0 136 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 577,0 138 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 696,0 140 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 211,0 141 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 746,0 142 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 1089,0 143 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 99,0 144 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 607,0 146 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 740,0 148 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 225,0 149 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 798,0 150 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 1097,0 151 0 
+DESIGN @valid@bits
+VIEW struct.bd
+GRAPHIC 113,0 152 0 
+DESIGN @valid@bits
+VIEW struct.bd
+NO_GRAPHIC 155

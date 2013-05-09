@@ -1,0 +1,30 @@
+--
+-- VHDL Architecture ece411.REG_L.untitled
+--
+-- Created:
+--          by - baker30.ews (gelib-057-01.ews.illinois.edu)
+--          at - 18:39:08 04/20/13
+--
+-- using Mentor Graphics HDL Designer(TM) 2012.1 (Build 6)
+--
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+USE ieee.NUMERIC_STD.all;
+
+LIBRARY ece411;
+USE ece411.LC3b_types.all;
+
+ENTITY REG_L IS
+   PORT( 
+      CLK : IN     STD_LOGIC
+   );
+
+-- Declarations
+
+END REG_L ;
+
+--
+ARCHITECTURE untitled OF REG_L IS
+BEGIN
+END ARCHITECTURE untitled;
+

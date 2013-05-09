@@ -1,0 +1,254 @@
+DESIGN @datas
+VIEW interface
+NO_GRAPHIC 0
+DESIGN @datas
+VIEW interface
+GRAPHIC 50,0 8 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1425,0 17 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1470,0 18 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1475,0 19 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1480,0 20 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1485,0 21 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1490,0 22 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1495,0 23 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1500,0 24 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1505,0 25 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1510,0 26 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1515,0 27 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1430,0 28 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1435,0 29 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1440,0 30 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1445,0 31 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1450,0 32 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1455,0 33 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1460,0 34 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1465,0 35 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1,0 38 0 
+DESIGN @datas
+VIEW interface
+GRAPHIC 1,0 39 0 
+DESIGN @datas
+VIEW struct.bd
+NO_GRAPHIC 42
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 41,0 51 0 
+DESIGN @datas
+VIEW struct.bd
+NO_GRAPHIC 57
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 0,0 59 2 
+DESIGN @datas
+VIEW struct.bd
+NO_GRAPHIC 64
+DESIGN @datas
+VIEW struct.bd
+NO_GRAPHIC 65
+LIBRARY ece411
+DESIGN @data@array
+VIEW untitled
+GRAPHIC 109,0 67 0 
+DESIGN @datas
+VIEW struct.bd
+NO_GRAPHIC 74
+LIBRARY ece411
+DESIGN @datas
+VIEW struct.bd
+NO_GRAPHIC 76
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 109,0 79 0 
+DESIGN @datas
+VIEW struct.bd
+NO_GRAPHIC 82
+DESIGN @datas
+VIEW struct.bd
+NO_GRAPHIC 84
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 109,0 86 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 457,0 88 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 475,0 89 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 361,0 90 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 577,0 91 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 971,0 92 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 139,0 94 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 499,0 96 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 463,0 97 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 553,0 98 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 535,0 99 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 445,0 100 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 169,0 102 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 529,0 104 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 385,0 105 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 433,0 106 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 469,0 107 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 427,0 108 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 199,0 110 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 439,0 112 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 391,0 113 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 373,0 114 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 541,0 115 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 565,0 116 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 229,0 118 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 559,0 120 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 583,0 121 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 415,0 122 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 421,0 123 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 505,0 124 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 259,0 126 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 547,0 128 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 487,0 129 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 409,0 130 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 523,0 131 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 571,0 132 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 289,0 134 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 517,0 136 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 367,0 137 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 481,0 138 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 397,0 139 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 403,0 140 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 319,0 142 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 451,0 144 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 493,0 145 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 379,0 146 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 355,0 147 0 
+DESIGN @datas
+VIEW struct.bd
+GRAPHIC 511,0 148 0 
+DESIGN @datas
+VIEW struct.bd
+NO_GRAPHIC 151

@@ -1,0 +1,29 @@
+--
+-- VHDL Architecture ece411.BHTMux2.untitled
+--
+-- Created:
+--          by - mcasano2.ews (evrt-252-14.ews.illinois.edu)
+--          at - 22:09:41 04/24/13
+--
+-- using Mentor Graphics HDL Designer(TM) 2012.1 (Build 6)
+--
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+USE ieee.NUMERIC_STD.all;
+
+LIBRARY ece411;
+USE ece411.LC3b_types.all;
+ENTITY BHTMux2 IS
+   PORT (
+      A   : IN     LC3b_word;
+      B   : IN     LC3b_word;
+      F   : OUT    LC3b_word;
+      Sel : IN     std_logic
+   );
+END BHTMux2;
+
+--
+ARCHITECTURE untitled OF BHTMux2 IS
+BEGIN
+END ARCHITECTURE untitled;
+

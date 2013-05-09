@@ -1,0 +1,69 @@
+--
+-- VHDL Architecture ece411.TwoBitArray.untitled
+--
+-- Created:
+--          by - mcasano2.ews (evrt-252-35.ews.illinois.edu)
+--          at - 18:41:00 04/18/13
+--
+-- using Mentor Graphics HDL Designer(TM) 2012.1 (Build 6)
+--
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+USE ieee.NUMERIC_STD.all;
+
+LIBRARY ece411;
+USE ece411.LC3b_types.all;
+
+ENTITY TwoBitArray IS
+   PORT( 
+      Reset_L : IN     std_logic;
+      Index   : IN     LC3B_C_INDEX;
+      DataOut : OUT    LC3B_C_TAG;
+      Write   : IN     std_logic;
+      DataIn  : IN     LC3B_C_TAG
+   );
+
+-- Declarations
+
+END TwoBitArray ;
+
+--
+ARCHITECTURE untitled OF TwoBitArray IS
+	TYPE WordArray IS array (7 downto 0) of LC3B_BR_BHT;
+	SIGNAL Tag : WordArray;
+	BEGIN
+		--------------------------------------------------------------
+		ReadFromWordArray : PROCESS (Tag, Index)
+		--------------------------------------------------------------
+    
+			VARIABLE TagIndex : integer;
+			BEGIN
+				TagIndex := to_integer(unsigned(Index));
+				DataOut <= Tag(TagIndex) after 20 ns;
+		
+		END PROCESS ReadFromWordArray;
+	
+		--------------------------------------------------------------
+		WriteToWordArray : PROCESS (RESET_L, Index, Write, DataIn)
+		-------------------------------------------------------	------	
+			VARIABLE TagIndex : integer;
+			BEGIN
+				TagIndex := to_integer(unsigned(Index));
+			IF RESET_L = '0' THEN
+				Tag(0) <= "00";
+				Tag(1) <= "00";
+				Tag(2) <= "00";
+				Tag(3) <= "00";
+				Tag(4) <= "00";
+				Tag(5) <= "00";
+				Tag(6) <= "00";
+				Tag(7) <= "00";
+				
+			END IF;
+
+			IF (Write = '1') THEN
+				Tag(TagIndex) <= DataIn;
+			END IF;
+		
+		END PROCESS WriteToWordArray;
+END ARCHITECTURE untitled;

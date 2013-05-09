@@ -1,0 +1,3 @@
+Did new implementation of LDI/STI, think that LDI is working, calling it a night(morning?)
+
+Working forwarding and data hazard detection

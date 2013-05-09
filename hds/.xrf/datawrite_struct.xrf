@@ -1,0 +1,438 @@
+DESIGN @data@write
+VIEW interface
+NO_GRAPHIC 0
+DESIGN @data@write
+VIEW interface
+GRAPHIC 50,0 8 0 
+DESIGN @data@write
+VIEW interface
+GRAPHIC 859,0 17 0 
+DESIGN @data@write
+VIEW interface
+GRAPHIC 909,0 18 0 
+DESIGN @data@write
+VIEW interface
+GRAPHIC 914,0 19 0 
+DESIGN @data@write
+VIEW interface
+GRAPHIC 904,0 20 0 
+DESIGN @data@write
+VIEW interface
+GRAPHIC 864,0 21 0 
+DESIGN @data@write
+VIEW interface
+GRAPHIC 869,0 22 0 
+DESIGN @data@write
+VIEW interface
+GRAPHIC 874,0 23 0 
+DESIGN @data@write
+VIEW interface
+GRAPHIC 879,0 24 0 
+DESIGN @data@write
+VIEW interface
+GRAPHIC 884,0 25 0 
+DESIGN @data@write
+VIEW interface
+GRAPHIC 889,0 26 0 
+DESIGN @data@write
+VIEW interface
+GRAPHIC 894,0 27 0 
+DESIGN @data@write
+VIEW interface
+GRAPHIC 899,0 28 0 
+DESIGN @data@write
+VIEW interface
+GRAPHIC 1,0 31 0 
+DESIGN @data@write
+VIEW interface
+GRAPHIC 1,0 32 0 
+DESIGN @data@write
+VIEW struct.bd
+NO_GRAPHIC 35
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 217,0 44 0 
+DESIGN @data@write
+VIEW struct.bd
+NO_GRAPHIC 50
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 0,0 53 2 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1278,0 58 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1280,0 59 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1282,0 60 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1284,0 61 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1286,0 62 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1288,0 63 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1290,0 64 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1292,0 65 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1100,0 66 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1102,0 67 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1104,0 68 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1106,0 69 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1108,0 70 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1110,0 71 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1112,0 72 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1114,0 73 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1118,0 74 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 330,0 75 0 
+DESIGN @data@write
+VIEW struct.bd
+NO_GRAPHIC 76
+DESIGN @data@write
+VIEW struct.bd
+NO_GRAPHIC 77
+LIBRARY ece411
+DESIGN @byte@bus@in
+VIEW untitled
+GRAPHIC 1090,0 79 0 
+DESIGN @data@write
+VIEW struct.bd
+NO_GRAPHIC 90
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 2220,0 92 0 
+DESIGN @determ@d@w
+VIEW symbol.sb
+GRAPHIC 270,0 94 0 
+DESIGN @determ@d@w
+VIEW symbol.sb
+GRAPHIC 220,0 95 0 
+DESIGN @determ@d@w
+VIEW symbol.sb
+GRAPHIC 215,0 96 0 
+DESIGN @determ@d@w
+VIEW symbol.sb
+GRAPHIC 225,0 97 0 
+DESIGN @determ@d@w
+VIEW symbol.sb
+GRAPHIC 230,0 98 0 
+DESIGN @determ@d@w
+VIEW symbol.sb
+GRAPHIC 210,0 99 0 
+LIBRARY mp3lib
+DESIGN @d@e@c@o@d@e3_8
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 824,0 102 0 
+DESIGN @d@e@c@o@d@e3_8
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 57,0 104 0 
+DESIGN @d@e@c@o@d@e3_8
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 52,0 105 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 304,0 108 0 
+DESIGN @n@o@t1
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 52,0 110 0 
+DESIGN @n@o@t1
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 57,0 111 0 
+LIBRARY ece411
+DESIGN @data@write
+VIEW struct.bd
+NO_GRAPHIC 114
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1090,0 117 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 824,0 118 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 2220,0 119 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 304,0 120 0 
+DESIGN @data@write
+VIEW struct.bd
+NO_GRAPHIC 123
+DESIGN @data@write
+VIEW struct.bd
+NO_GRAPHIC 125
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1090,0 127 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 938,0 129 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 948,0 130 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 958,0 131 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 968,0 132 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 978,0 133 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 998,0 134 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1008,0 135 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1018,0 136 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1028,0 137 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1202,0 139 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 141,0 141 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1216,0 142 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1224,0 143 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1232,0 144 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1240,0 145 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1248,0 146 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1256,0 147 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1264,0 148 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1272,0 149 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 2220,0 151 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1806,0 153 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1336,0 154 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 127,0 155 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1344,0 156 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 324,0 157 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 15,0 158 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 2084,0 160 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 2389,0 162 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1360,0 163 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1552,0 164 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1368,0 165 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1594,0 166 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 29,0 167 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 2186,0 169 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 2403,0 171 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1384,0 172 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1558,0 173 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1392,0 174 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1600,0 175 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 43,0 176 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 2016,0 178 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 2417,0 180 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1408,0 181 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1564,0 182 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1416,0 183 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1606,0 184 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 57,0 185 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 2050,0 187 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 2423,0 189 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1440,0 190 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1570,0 191 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1448,0 192 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1612,0 193 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 71,0 194 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 2254,0 196 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 2429,0 198 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1472,0 199 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1576,0 200 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1480,0 201 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1618,0 202 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 85,0 203 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 2152,0 205 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 2435,0 207 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1504,0 208 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1582,0 209 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1512,0 210 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1624,0 211 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 99,0 212 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 2118,0 214 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 2447,0 216 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1536,0 217 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1588,0 218 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1544,0 219 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 1638,0 220 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 113,0 221 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 824,0 223 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 155,0 225 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 938,0 226 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 304,0 228 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 316,0 230 0 
+DESIGN @data@write
+VIEW struct.bd
+GRAPHIC 324,0 231 0 
+DESIGN @data@write
+VIEW struct.bd
+NO_GRAPHIC 234
